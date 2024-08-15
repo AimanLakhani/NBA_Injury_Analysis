@@ -1,7 +1,7 @@
 # NBA_Injury_Analysis
 This is an analysis that I did on NBA Injuries from the 2011 - 2020 NBA season.
 
-This project was used to discover and visualize patterns in injuries for NBA teams across the previous decade, and how teams could avoid them / adapt their playstyle to become more injury resilient.
+This project was used to discover and visualize patterns in injuries for NBA teams across the previous decade, and how teams could avoid them or adapt their playstyle to become more injury resilient.
 
 ## Analysis
 ![Screenshot 2024-08-15 150732](https://github.com/user-attachments/assets/d0e3f0de-4eb9-42c6-acbd-3d27c9cb8364)
