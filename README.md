@@ -33,3 +33,11 @@ Teams with a high injury count (1.5 standard deviations above the mean) still ma
 Injuries have been shown to be fairly random overtime, and that outside of basic load management systems, there’s little that teams can do to prevent injuries from impacting their rosters.
 Teams can reduce the effect of injuries by focusing more on outside shooting and overall being more offensively-minded.
 Teams will have better chances of making the playoffs if they build their roster around shooting 3 pointers and having a more modern style of play.
+
+### Library Versions
+MatPlotLib - 3.8.0
+Seaborn - 0.13.1
+Plotly - 5.9.0
+Altair - 4.2.2
+Dash - 2.17.1
+dash-vega-components - 0.11.0
