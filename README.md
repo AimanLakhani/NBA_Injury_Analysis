@@ -35,9 +35,9 @@ Teams can reduce the effect of injuries by focusing more on outside shooting and
 Teams will have better chances of making the playoffs if they build their roster around shooting 3 pointers and having a more modern style of play.
 
 ### Library Versions
-MatPlotLib - 3.8.0
-Seaborn - 0.13.1
-Plotly - 5.9.0
-Altair - 4.2.2
-Dash - 2.17.1
+MatPlotLib - 3.8.0 /
+Seaborn - 0.13.1 /
+Plotly - 5.9.0 /
+Altair - 4.2.2 /
+Dash - 2.17.1 /
 dash-vega-components - 0.11.0
