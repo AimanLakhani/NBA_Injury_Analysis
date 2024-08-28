@@ -34,6 +34,12 @@ Injuries have been shown to be fairly random overtime, and that outside of basic
 Teams can reduce the effect of injuries by focusing more on outside shooting and overall being more offensively-minded.
 Teams will have better chances of making the playoffs if they build their roster around shooting 3 pointers and having a more modern style of play.
 
+## Datasets
+The Advanced Statistics show how a team performed over the course of the season.
+To check the stats and their definitions:
+https://www.basketball-reference.com/leagues/NBA_2020.html#advanced-team
+The injuries dataset is a catalog of all injuries through the 2020 NBA season, including the bubble during COVID.
+
 ### Library Versions
 MatPlotLib - 3.8.0 \
 Seaborn - 0.13.1 \
