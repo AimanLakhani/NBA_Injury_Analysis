@@ -38,7 +38,7 @@ Teams will have better chances of making the playoffs if they build their roster
 The Advanced Statistics show how a team performed over the course of the season.
 To check the stats and their definitions:
 https://www.basketball-reference.com/leagues/NBA_2020.html#advanced-team
-The injuries dataset is a catalog of all injuries through the 2020 NBA season, including the bubble during COVID.
+The injuries dataset is a catalog of all injuries through the 2020 NBA season, including the bubble during COVID, with over 27,000 data points.
 
 ### Library Versions
 MatPlotLib - 3.8.0 \
